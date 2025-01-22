@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: CyberAnalytics - Cybersecurity Threat Intelligence Toolkit
+description: This project aims to develop an automated threat intelligence toolkit that collects vulnerability incident reports, and automatically analyze them to drive deep insight on root causes, and consequences.
+github:
+  is_project_page: true
+  repository_url: to be updated
