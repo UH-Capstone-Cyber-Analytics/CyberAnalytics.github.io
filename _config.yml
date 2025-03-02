@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
-title: CyberAnalytics - Cybersecurity Threat Intelligence Toolkit
-description: This project aims to develop an automated threat intelligence toolkit that collects vulnerability incident reports, and automatically analyze them to drive deep insight on root causes, and consequences.
+title: DART: Dockerized Application Resilience Tester 
+description: This project focuses on attacking a containerized application to evaluate its security posture and resilience. 
+By targeting exposed services—such as HTTP for a simple web server — we attempt to gain unauthorized access, exploit misconfigurations, and leverage living-off-the-land (LoTL) techniques within the container.
+The key motivation lies in the idea of expecting an application to become compromised. We look to test how the application responds in these situations and whether they are able to maitain resilience.
 github:
   is_project_page: true
   repository_url: to be updated
