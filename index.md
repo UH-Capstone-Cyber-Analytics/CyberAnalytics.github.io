@@ -1,10 +1,3 @@
----
-layout: default
-title: DART
-subtitle: Dockerized Application Resilience Tester
----
-<div class="main-container">
-
 # DART : Dockerized Application Resilience Tester
 
 ## Table of Contents
@@ -54,5 +47,3 @@ docker-compose up --build
 ## Next Step
 ![Next Step](Next_step.png)
 *Figure 2: Target architecture*
-
-</div>
